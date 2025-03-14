@@ -92,5 +92,3 @@
 - Hilbert Älg’s Scholarship (F-guild Engineering Union)
 
 ---
-
-You can copy and paste this Markdown into your GitHub Pages README file. Adjust formatting as needed for your site’s style!
