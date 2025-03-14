@@ -16,6 +16,27 @@
 
 ---
 
+## Education
+
+### MSc in Engineering Physics  
+**Institution:** Lund University – LTH  
+**Expected:** Summer 2025  
+- **Focus:** Machine Intelligence, Financial Modeling, Theoretical Physics  
+- **Expected GPA:** 3.5/4
+
+### BSc in Business & Economics  
+**Institution:** Lund University – LUSEM  
+**Expected:** Spring 2025  
+- **Expected GPA:** 3.3/4
+
+### High School Diploma, Natural Sciences  
+**Institution:** Spyken Upper Secondary School  
+**Graduated:** Jun 2018  
+- **GPA:** 21.25/22.5
+
+---
+
+
 ## Experiences
 
 ### Summer Internship & Remote Work, Embedded Systems  
@@ -63,26 +84,6 @@
 **Location:** Lund  
 **Duration:** 2016 – 2018, May 2022  
 - Performed lead and supporting roles in high school theatre and in Lundakarnevalen 2022.
-
----
-
-## Education
-
-### MSc in Engineering Physics  
-**Institution:** Lund University – LTH  
-**Expected:** Summer 2025  
-- **Focus:** Machine Intelligence, Financial Modeling, Theoretical Physics  
-- **Expected GPA:** 3.5/4
-
-### BSc in Business & Economics  
-**Institution:** Lund University – LUSEM  
-**Expected:** Spring 2025  
-- **Expected GPA:** 3.3/4
-
-### High School Diploma, Natural Sciences  
-**Institution:** Spyken Upper Secondary School  
-**Graduated:** Jun 2018  
-- **GPA:** 21.25/22.5
 
 ---
 
