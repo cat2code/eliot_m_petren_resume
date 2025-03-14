@@ -4,8 +4,7 @@ title: Eliot Petrén - Resume
 
 # Eliot Petrén
 
-**En motiverad person som med entusiasm studerar en dubbel examen: master i Teknisk Fysik och kandidat i ekonomi vid Lunds Universitet.**  
-_Hösten 2024 fortsätter jag gärna som amanuens inom EDAA8X, EDAA01 eller EDAP01._
+**A motivated person who enthusiastically pursues a double degree: an MSc in Engineering Physics and a Bachelor's in Economics at Lund University.**
 
 ![Profile Photo](cv_Eliot_overleaf.png)
 
