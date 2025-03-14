@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Eliot Petrén Resume"
+---
+
 # Eliot Petrén Resume
 
 **Contact Information:**  
@@ -90,5 +95,3 @@
 
 - Winner of Lund University Finance Society (LINC) Algorithmic Trading Hackathon 2025  
 - Hilbert Älg’s Scholarship (F-guild Engineering Union)
-
----
