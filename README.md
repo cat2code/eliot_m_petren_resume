@@ -1,2 +1,11 @@
-# eliot_m_petren_resume
-A github resume site
+# Engineering and Economics Graduate
+
+### Education
+MSc Engineering Physics
+
+BSc Economics
+
+### Work Experience
+
+### Projects
+
