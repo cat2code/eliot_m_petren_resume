@@ -1,4 +1,4 @@
-# Eliot Petrén Resume
+# Eliot Petrén
 
 **Contact Information:**  
 - **Email:** [eliot.mp99@gmail.com](mailto:eliot.mp99@gmail.com)  
