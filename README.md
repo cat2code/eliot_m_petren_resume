@@ -1,11 +1,11 @@
-# Eliot Petrén
+# Eliot M. Petrén
 
 **Contact Information:**  
 - **Email:** [eliot.mp99@gmail.com](mailto:eliot.mp99@gmail.com)  
 - **Phone:** +46 (0)76 213 95 33  
 - **Address:** Södra Förstadsgatan 88A, lgh 1401, Malmö, Sweden  
 - **GitHub:** [cat2code](https://github.com/cat2code)  
-- **LinkedIn:** [eliot-petrén-6122461a0](https://www.linkedin.com/in/eliot-petr%C3%A9n-6122461a0)
+- **LinkedIn:** [eliot-m-petrén-6122461a0](https://www.linkedin.com/in/eliot-m-petrén-6122461a0/)
 
 ---
 
@@ -48,7 +48,7 @@
 **Location:** Lund  
 **Duration:** Jan 2023 – Present  
 -  Regularly perform as a bassist at professional paid events (weddings, student balls, clubs, graduation parties), managing gigs generating revenues of 4,800 - 25,000 SEK per event.
-- [Instagram @konfettipartyband](https://www.instagram.com/konfettipartyband/)
+- [partyband.se](www.partyband.se)
 - [Public album](https://drive.google.com/drive/folders/1fI-gs2-eANfXXcyKHxWhzAeRG-byMLTb?usp=share_link)
 
 ### Host and Event Manager  
