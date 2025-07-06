@@ -115,3 +115,14 @@ mpetren.se/reviews - Review blog grading albums and movies that I like or have o
 ## Blog
 
 I plan to share updates and side projects on my [blog](blog/).
+
+## Local Development
+
+To preview the site locally:
+
+```bash
+gem install bundler # if you don't have it
+bundle install
+bundle exec jekyll serve
+```
+
