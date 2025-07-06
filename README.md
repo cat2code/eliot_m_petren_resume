@@ -100,3 +100,7 @@
 - Hilbert Älg’s Scholarship 2020 (F-guild Engineering Union)
 
 ---
+
+## Blog
+
+I plan to share updates and side projects on my [blog](blog/).
