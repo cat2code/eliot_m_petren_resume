@@ -112,17 +112,16 @@ mpetren.se/reviews - Review blog grading albums and movies that I like or have o
 
 ---
 
-## Blog
-
-I plan to share updates and side projects on my [blog](blog/).
-
 ## Local Development
 
-To preview the site locally:
+The provided `Gemfile` lists all dependencies needed to run the site locally.
+To start a development server, run:
 
 ```bash
-gem install bundler # if you don't have it
+gem install bundler
 bundle install
 bundle exec jekyll serve
 ```
 
+You do not need to paste the contents of the `Gemfile` into the terminal;
+`bundle install` reads it automatically.
