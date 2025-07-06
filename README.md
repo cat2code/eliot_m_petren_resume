@@ -100,3 +100,17 @@
 - Hilbert Älg’s Scholarship 2020 (F-guild Engineering Union)
 
 ---
+
+## Local Development
+
+The provided `Gemfile` lists all dependencies needed to run the site locally.
+To start a development server, run:
+
+```bash
+gem install bundler
+bundle install
+bundle exec jekyll serve
+```
+
+You do not need to paste the contents of the `Gemfile` into the terminal;
+`bundle install` reads it automatically.
