@@ -1,7 +1,7 @@
 # Eliot M. Petrén
 
 **Contact Information:**  
-- **Email:** [eliot.mp99@gmail.com](mailto:eliot.mp99@gmail.com)  
+- **Email:** [eliot@mpetren.se](mailto:eliot@mpetren.se)  
 - **Phone:** +46 (0)76 213 95 33  
 - **Address:** Södra Förstadsgatan 88A, lgh 1401, Malmö, Sweden  
 - **GitHub:** [cat2code](https://github.com/cat2code)  
@@ -11,7 +11,7 @@
 
 ## Skills
 
-- **Programming & Tools:** Python, Java, Matlab, C/C++, Rust, Swift, Excel
+- **Programming & Tools:** Python, Java, C/C++, Matlab, Rust, Swift, Excel
 - **Languages:** Swedish (native), English (fluent), Spanish (intermediate), German (basic), Dutch (basic)
 
 ---
@@ -20,14 +20,23 @@
 
 ### MSc in Engineering Physics  
 **Institution:** Lund University – LTH  
-**Expected:** 2025  
-- **Focus:** Machine Intelligence, Financial Modeling, Theoretical Physics  
-- **Expected GPA:** 3.5/4
+**Expected:** 01/2026  
+- **Focus areas:** Machine Intelligence, Financial Modeling, Theoretical Physics  
+- **Expected GPA:** 3.7/4
 
 ### BSc in Business & Economics  
 **Institution:** Lund University – LUSEM  
-**Expected:** Spring 2025  
+**Expected:** 08/2025  
 - **Expected GPA:** 3.3/4
+
+### Relevant Coursework:  
+
+- **Financial modeling/Statistics:** Advanced Financial Statistics, Derivative Pricing & Stochastic Calculus, Time Series Analysis, Monte-Carlo Methods, Spectral Analysis
+- **Machine Learning:** Machine Learning, Neural Networks & Deep Learning, Optimization
+- **Physics:** Intro to Particle Physics and Accelerators, Quantum Mechanics
+- **Economics:** Macroeconomic Analysis, Econometrics, Business Administration, Economics 1
+- **Programming:** Multicore Programming (C/C++, Rust), Java and OOP 2nd course, Algorithms & Data Structures
+- **Mathematics:** Chaos Theory, Matrix Theory
 
 ### High School Diploma, Natural Sciences  
 **Institution:** Spyken Upper Secondary School  
@@ -36,31 +45,41 @@
 
 ---
 
-
 ## Experiences
 
-### Teaching Assistant, Artificial Intelligence & Programming  
-**Institution:** Dept. of Computer Science, Lund University  
-**Duration:** Jan 2023 – Present  
-- Supervised labs, graded hand-ins, and mentored students in advanced AI and introductory Python/Java courses.
+### AF Borgen Evenemang AB, Lund
 
-### Musician & Event Performer – Konfetti Party Band
-**Location:** Lund  
-**Duration:** Jan 2023 – Present  
--  Regularly perform as a bassist at professional paid events (weddings, student balls, clubs, graduation parties), managing gigs generating revenues of 4,800 - 25,000 SEK per event.
-- [partyband.se](www.partyband.se)
-- [Public album](https://drive.google.com/drive/folders/1fI-gs2-eANfXXcyKHxWhzAeRG-byMLTb?usp=share_link)
+**Customer Host**
+*Jan 2022 – Present*
 
-### Host and Event Manager  
-**Organization:** AF Borgen Evenemang AB, Lund  
-**Duration:** Mar 2022 – Present
-- Managing day and night shifts during events at AF-Borgen (conferences, parties and balls). 
+* Oversee AF-Borgen venue operations, ensuring safety/regulatory compliance and exceptional service while directing logistics and technical setups for conferences, fine sittings, and celebrations.
+* Supervise service teams for 1,000+ guests, set up conference/event AV systems; trained in CPR and Fire Safety.
 
-### Summer Internship, Embedded Systems  
-**Company:** ASSA ABLOY – Entrance Systems, Landskrona  
-**Duration:** Jun 2022 – Sept 2023  
-- Developed embedded solutions for the test team featuring encrypted BLE communication (C/C++ (mainly), Swift).
-- The project handed to me started as a general idea but me and my student partner transformed it into a platform and corresponding equipment that could be handed over to the permanent staff for integration to the automatic test pipeline.
+### Konfetti Party Band, Lund
+
+**Co-founder, Musician & Event Performer**
+*Jan 2023 – Present*
+[partyband.se](http://www.partyband.se) • [public album](https://drive.google.com/drive/folders/1fI-gs2-eANfXXcyKHxWhzAeRG-byMLTb?usp=share_link) • [Instagram @konfettipartyband](https://www.instagram.com/konfettipartyband/)
+
+* I run a band and perform as bassist at weddings, student balls, nightclubs, and corporate events, managing gigs generating revenues of 4,800 – 30,000 SEK per event.
+
+
+### Dept. of Computer Science at LTH, Lund
+
+**Teaching Assistant, Artificial Intelligence & Programming**
+*Jan 2023 – Mar 2025*
+
+* Supervised weekly labs, graded hand-ins, and mentored students in advanced AI and introductory Python/Java courses.
+
+
+
+### ASSA ABLOY Entrance Systems, Landskrona, Sweden
+
+**Summer Internship — Embedded Systems**
+*Jun 2022 – Sept 2023*
+
+* Developed C/C++ firmware for encrypted BLE communication in the test team’s embedded devices.
+* Led design and delivery of a swing-door test platform: selected hardware, built the door simulator, and integrated it into the automated test pipeline for handoff.
 
 ---
 
@@ -96,7 +115,12 @@
 
 ## Commendations
 
-- Winner of Lund University Finance Society (LINC) Algorithmic Trading Hackathon 2025  
-- Hilbert Älg’s Scholarship 2020 (F-guild Engineering Union)
+* **1st Place Prize of Algorithmic Trading Hackathon 2025**, Lund University Finance Society (LINC-STEM)
+
+  * Designed and rapidly prototyped a multithreaded trading platform interfacing with a custom broker API.
+  * Collaborated over a tight 3-day schedule with a randomly assigned team of mixed experience levels.
+  * Implemented and backtested multiple automated trading strategies for the live trading simulation.
+
+* **Hilbert Älg’s Scholarship 2020** (F-guild Engineering Union)
 
 ---
