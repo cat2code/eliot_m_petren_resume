@@ -25,7 +25,7 @@
 Aug 2019 – May 2026 (expected)  
 - **Master Thesis:** *Graph Neural Network-Based Reconstruction for the Light Dark Matter eXperiment* (ongoing)  
 - **Focus:** Machine Intelligence, Financial Modelling, (Theoretical Physics, Automatic Control)
-- **GPA:** 3.6/4
+- **GPA:** 3.5/4
 
 ### BSc in Business & Economics  
 **Lund University – School of Economics and Management (LUSEM)**  
