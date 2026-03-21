@@ -13,8 +13,8 @@
 
 ## Skills
 
-- **Programming & Tools:** Python, Java, C/C++, Matlab, Rust, Excel
-- **Languages:** Swedish (native), English (fluent), Spanish (intermediate), German (basic), Dutch (basic)
+- **Programming & Tools:** Python, Java, C/C++, Matlab, Rust | Docker, Git, Jira, Excel
+- **Languages:** Swedish (native), English (fluent), Spanish (intermediate), Danish/German/Dutch (basic)
 
 ---
 
